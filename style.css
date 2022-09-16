@@ -1,0 +1,35 @@
+.container {
+    background-color: rgb(236, 207, 169);
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container div {
+    flex: 1;
+    background-color: aqua;
+    height: 120px;
+    margin: 30px;
+    
+
+    
+
+    
+
+}
+
+img {
+    height: 60px;
+    width: 70px;
+    display: block;
+    margin: auto;
+    
+    
+
+}
+
+a {
+    display: block;
+    text-align: center;
+}
